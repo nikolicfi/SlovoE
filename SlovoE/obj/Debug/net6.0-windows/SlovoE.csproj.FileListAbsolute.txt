@@ -1,0 +1,34 @@
+C:\Users\filip\Desktop\C# Maturski zadaci\SlovoE\SlovoE\bin\Debug\net6.0-windows\SlovoE.exe
+C:\Users\filip\Desktop\C# Maturski zadaci\SlovoE\SlovoE\bin\Debug\net6.0-windows\SlovoE.deps.json
+C:\Users\filip\Desktop\C# Maturski zadaci\SlovoE\SlovoE\bin\Debug\net6.0-windows\SlovoE.runtimeconfig.json
+C:\Users\filip\Desktop\C# Maturski zadaci\SlovoE\SlovoE\bin\Debug\net6.0-windows\SlovoE.dll
+C:\Users\filip\Desktop\C# Maturski zadaci\SlovoE\SlovoE\bin\Debug\net6.0-windows\SlovoE.pdb
+C:\Users\filip\Desktop\C# Maturski zadaci\SlovoE\SlovoE\obj\Debug\net6.0-windows\SlovoE.csproj.AssemblyReference.cache
+C:\Users\filip\Desktop\C# Maturski zadaci\SlovoE\SlovoE\obj\Debug\net6.0-windows\SlovoE.Form1.resources
+C:\Users\filip\Desktop\C# Maturski zadaci\SlovoE\SlovoE\obj\Debug\net6.0-windows\SlovoE.csproj.GenerateResource.cache
+C:\Users\filip\Desktop\C# Maturski zadaci\SlovoE\SlovoE\obj\Debug\net6.0-windows\SlovoE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Desktop\C# Maturski zadaci\SlovoE\SlovoE\obj\Debug\net6.0-windows\SlovoE.AssemblyInfoInputs.cache
+C:\Users\filip\Desktop\C# Maturski zadaci\SlovoE\SlovoE\obj\Debug\net6.0-windows\SlovoE.AssemblyInfo.cs
+C:\Users\filip\Desktop\C# Maturski zadaci\SlovoE\SlovoE\obj\Debug\net6.0-windows\SlovoE.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\C# Maturski zadaci\SlovoE\SlovoE\obj\Debug\net6.0-windows\SlovoE.dll
+C:\Users\filip\Desktop\C# Maturski zadaci\SlovoE\SlovoE\obj\Debug\net6.0-windows\refint\SlovoE.dll
+C:\Users\filip\Desktop\C# Maturski zadaci\SlovoE\SlovoE\obj\Debug\net6.0-windows\SlovoE.pdb
+C:\Users\filip\Desktop\C# Maturski zadaci\SlovoE\SlovoE\obj\Debug\net6.0-windows\SlovoE.genruntimeconfig.cache
+C:\Users\filip\Desktop\C# Maturski zadaci\SlovoE\SlovoE\obj\Debug\net6.0-windows\ref\SlovoE.dll
+C:\Users\filip\Desktop\SlovoE\SlovoE\obj\Debug\net6.0-windows\SlovoE.csproj.AssemblyReference.cache
+C:\Users\filip\Desktop\SlovoE\SlovoE\obj\Debug\net6.0-windows\SlovoE.Form1.resources
+C:\Users\filip\Desktop\SlovoE\SlovoE\obj\Debug\net6.0-windows\SlovoE.csproj.GenerateResource.cache
+C:\Users\filip\Desktop\SlovoE\SlovoE\obj\Debug\net6.0-windows\SlovoE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Desktop\SlovoE\SlovoE\obj\Debug\net6.0-windows\SlovoE.AssemblyInfoInputs.cache
+C:\Users\filip\Desktop\SlovoE\SlovoE\obj\Debug\net6.0-windows\SlovoE.AssemblyInfo.cs
+C:\Users\filip\Desktop\SlovoE\SlovoE\obj\Debug\net6.0-windows\SlovoE.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\SlovoE\SlovoE\obj\Debug\net6.0-windows\SlovoE.dll
+C:\Users\filip\Desktop\SlovoE\SlovoE\obj\Debug\net6.0-windows\refint\SlovoE.dll
+C:\Users\filip\Desktop\SlovoE\SlovoE\obj\Debug\net6.0-windows\SlovoE.pdb
+C:\Users\filip\Desktop\SlovoE\SlovoE\bin\Debug\net6.0-windows\SlovoE.exe
+C:\Users\filip\Desktop\SlovoE\SlovoE\bin\Debug\net6.0-windows\SlovoE.deps.json
+C:\Users\filip\Desktop\SlovoE\SlovoE\bin\Debug\net6.0-windows\SlovoE.runtimeconfig.json
+C:\Users\filip\Desktop\SlovoE\SlovoE\bin\Debug\net6.0-windows\SlovoE.dll
+C:\Users\filip\Desktop\SlovoE\SlovoE\bin\Debug\net6.0-windows\SlovoE.pdb
+C:\Users\filip\Desktop\SlovoE\SlovoE\obj\Debug\net6.0-windows\SlovoE.genruntimeconfig.cache
+C:\Users\filip\Desktop\SlovoE\SlovoE\obj\Debug\net6.0-windows\ref\SlovoE.dll
